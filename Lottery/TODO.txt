@@ -1,0 +1,21 @@
+//
+//  TODO.txt
+//  Lottery
+//
+//  Created by Łukasz Kmiotek on 09/02/2025.
+//
+
+// fix generation...
+// remove force unwrapping in PersistenceController + clean up
+// Package API for ModelsTuner, TuneModelsResult
+
+// Review in context of code and architecture rules, smaller parts
+
+// UI Test
+
+// Accessibility
+
+// Exclusion model UI - now last draft numbers are omitted
+
+// App mode: add, delete, modify entries in DB
+// load file, check where newest
